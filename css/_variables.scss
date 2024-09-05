@@ -1,0 +1,19 @@
+:root {
+  //color
+  --color-font: #1a1a1a;
+  --white: #ffffff;
+  --green: #36ba5f;
+  --green-hover: #20a151;
+  --gray: #f9f9f9;
+  //font
+  --f-size-base: 15px;
+  --line-height-base: 1.4;
+  --line-height-title: 1.2;
+  --font-regular: 400;
+  --font-medium: 600;
+  --font-bold: 700;
+}
+//sizes
+$screen-lg: 1024px;
+$screen-md: 768px;
+$screen-sm: 480px;
